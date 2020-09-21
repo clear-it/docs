@@ -1,7 +1,7 @@
 # Community-Lead Expungement Assistance Repository
 
 ## Mission
-Our mission is to facilitate individuals hoping to take the step towards fully reclaiming their future by getting their criminal records expunged.
+Our mission is to facilitate determination of likely eligibility for individuals hoping to take the step towards fully reclaiming their future by getting their criminal records expunged.
 
 ## How We Plan To Do It
 CLEAR intends to create a simple questionnaire to help individuals determine whether they are likely to be eligible for expungement of their criminal records.
